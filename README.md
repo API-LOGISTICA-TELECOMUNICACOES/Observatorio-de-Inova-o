@@ -56,7 +56,7 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, analisan
 | *Pedro Henrique* | Dev Team|
 | *Renan Matheus* | Dev Team|
 
-# Acúmulo de Produto
+# Backlog do Produto
 
 | Classificação | Prioridade | EU IA | História do Usuário | Estimativa (h) | Requisitos do Parceiro |
 | :---: | :---: | :---: | :--- | :---: | :--- |
