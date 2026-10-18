@@ -49,9 +49,9 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, analisan
 
 | Integrantes | Painel de Mapeamento do Ecossistema Industrial Regional |
 | :--- | :--- |
-| *Camila Silva* | Scrum Master |
+| *Camila Silva* | Product Owner|
 | *Flávio Almeida* | Dev Team |
-| *Igor Norberto* | Product Owner |
+| *Igor Norberto* | Scrum Master | 
 | *Juan Victor* | Dev Team|
 | *Pedro Henrique* | Dev Team|
 | *Renan Matheus* | Dev Team|
