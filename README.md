@@ -1,4 +1,4 @@
-# Observatorio-de-Inovação
+# Observatório de Inovação
 
 Nós da equipe API Logística, estudantes do 1º semestre do curso de Gestão da Produção Industrial (GPI) na FATEC SJC, atuando no segmento de Logística Aplicada à Telecomunicações, estamos comprometidos com o desenvolvimento do projeto "Mapeamento do Ecossistema Industrial Regional" neste repositório. O objetivo do projeto é criar um dashboard interativo e com filtragem de dados para pesquisa e análise.
 
